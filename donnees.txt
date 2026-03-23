@@ -1,0 +1,17 @@
+0.01		!Epaisseur
+1.0		!Teneur de Eau Initiale
+0.3		!Whyg
+500		!Masse Volumique de Produit Sec(psec)
+9.81		!Gravité
+0.018		!Masse Molaire de la Vapeur
+8.3143		!R
+2.0		!Vitesse de l'air ambiant
+70.0		!Temperature de l'air
+0.3		!Humidité relative
+47.2		!Thumide
+11		!NN
+0.01		!Beta1
+0.0		!Gamma
+1.0		!deltat
+36000.0		!t_fin
+600.0		!t_stockage
